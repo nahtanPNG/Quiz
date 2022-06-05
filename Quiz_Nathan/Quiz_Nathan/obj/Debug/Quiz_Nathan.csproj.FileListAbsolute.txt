@@ -1,0 +1,12 @@
+E:\2ºAno\DS\2ºBimestre\Quiz_Nathan\Quiz_Nathan\bin\Debug\Quiz_Nathan.exe.config
+E:\2ºAno\DS\2ºBimestre\Quiz_Nathan\Quiz_Nathan\bin\Debug\Quiz_Nathan.exe
+E:\2ºAno\DS\2ºBimestre\Quiz_Nathan\Quiz_Nathan\bin\Debug\Quiz_Nathan.pdb
+E:\2ºAno\DS\2ºBimestre\Quiz_Nathan\Quiz_Nathan\obj\Debug\Quiz_Nathan.csproj.AssemblyReference.cache
+E:\2ºAno\DS\2ºBimestre\Quiz_Nathan\Quiz_Nathan\obj\Debug\Quiz_Nathan.Form1.resources
+E:\2ºAno\DS\2ºBimestre\Quiz_Nathan\Quiz_Nathan\obj\Debug\Quiz_Nathan.Properties.Resources.resources
+E:\2ºAno\DS\2ºBimestre\Quiz_Nathan\Quiz_Nathan\obj\Debug\Quiz_Nathan.quiz.resources
+E:\2ºAno\DS\2ºBimestre\Quiz_Nathan\Quiz_Nathan\obj\Debug\Quiz_Nathan.csproj.GenerateResource.cache
+E:\2ºAno\DS\2ºBimestre\Quiz_Nathan\Quiz_Nathan\obj\Debug\Quiz_Nathan.csproj.CoreCompileInputs.cache
+E:\2ºAno\DS\2ºBimestre\Quiz_Nathan\Quiz_Nathan\obj\Debug\Quiz_Nathan.exe
+E:\2ºAno\DS\2ºBimestre\Quiz_Nathan\Quiz_Nathan\obj\Debug\Quiz_Nathan.pdb
+E:\2ºAno\DS\2ºBimestre\Quiz_Nathan\Quiz_Nathan\obj\Debug\Quiz_Nathan.fim.resources
